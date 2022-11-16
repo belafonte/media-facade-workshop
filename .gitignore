@@ -1,4 +1,6 @@
 .DS_Store
 /Backup
 app.*.toe
-/Arduino/.vscode
+/arduino/.vscode
+/samples
+CrashAutoSave*
