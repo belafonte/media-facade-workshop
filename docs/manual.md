@@ -115,3 +115,26 @@ Lets check out all the options in detail
 **13.** Saves the current positions of the samples.
 
 **14.** Loads sample positions from a previous saved state.
+
+### Webserver
+
+![alt text](./images/webserver.jpg "Webserver")
+
+**1.** The web address under which you can reach the sample.
+
+**2.** Opens the address in your default browser. You can then copy the address and enter it for example in the browser in your phone. This only works if your phone and the computer are in the **SAME NETWORK**
+
+**3.** Restarts the webserver. Use in case the image in the browser does not get updated.
+
+Use the other options accordingly.
+
+- **Webserver samples can be assigned by right clicking on the sample**
+
+![alt text](./images/open-webserver.gif "Open Webserver")
+
+## Animation Example - Text
+
+Here you see how to animate text based on one animation ( in this case Animation 1 = $A1 ).
+As already explained every animation cann be referenced by $A1 - $A8
+
+![alt text](./images/text-animation-example.gif "Text Animation")
