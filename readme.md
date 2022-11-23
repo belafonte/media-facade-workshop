@@ -13,9 +13,3 @@ A installation of TouchDesigner and a license is needed to open the TouchDesigne
 ## Using the app
 
 Check out the manual under /docs
-
-## Demo Video
-
-You find a demo video here:
-
-https://www.icloud.com/iclouddrive/0d9Qf84im7T-_4TpF3Leu94DA#Toolkit_Demo
